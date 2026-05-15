@@ -105,3 +105,4 @@ This project demonstrated how machine learning can be applied to short-term stoc
 ## 👤 Author
 
 **Umme Amara**
+**DHC-585**
